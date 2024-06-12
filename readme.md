@@ -90,7 +90,8 @@ This is a Publisher Subscriber Notification System implemented using the MERN (M
 4. **Run Frontend Server**
 
 5. **Access Application**
-Open a web browser and navigate to `http://localhost:3000` to access the application.
+The application is hosted on Vercel. You can access it using the following link:
+[Publisher Subscriber Notification System](https://devdynamics-assignment.vercel.app/)
 
 ## Author
 Akash Deshmukh
